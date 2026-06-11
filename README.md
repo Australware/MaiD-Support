@@ -9,7 +9,7 @@ you can search existing reports, follow progress, and back ideas you like with a
 
 ## 🐞 Report a bug
 
-➡️ **[Open a bug report](https://github.com/Australware/MaiD/issues/new?template=bug_report.yml)**
+➡️ **[Open a bug report](https://github.com/Australware/MaiD-Support/issues/new?template=bug_report.yml)**
 
 To help us fix it fast, please include:
 
@@ -20,21 +20,21 @@ To help us fix it fast, please include:
 
 ## 💡 Request a feature
 
-➡️ **[Request a feature](https://github.com/Australware/MaiD/issues/new?template=feature_request.yml)**
+➡️ **[Request a feature](https://github.com/Australware/MaiD-Support/issues/new?template=feature_request.yml)**
 
 Tell us what you're trying to do and why it's awkward today — the problem you're hitting is
 more useful to us than a specific solution.
 
 ## 🔎 Before you post
 
-Please **[search existing issues](https://github.com/Australware/MaiD/issues)** first. If your
+Please **[search existing issues](https://github.com/Australware/MaiD-Support/issues)** first. If your
 bug or idea is already there, add a comment or a 👍 rather than opening a duplicate — it helps
 us see what matters most.
 
 ## 📨 Other ways to reach us
 
 - **Email:** support@australware.io
-- **Website:** https://australware.io/maid
+- **Website:** https://australware.io/
 
 ## 🔒 Privacy
 
