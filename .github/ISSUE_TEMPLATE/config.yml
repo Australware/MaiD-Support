@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📨 Email support
+    url: mailto:support@australware.io
+    about: Prefer not to use GitHub? Email us directly.
+  - name: 🌐 MaiD website
+    url: https://australware.io/
+    about: Features, download, and more about MaiD.
